@@ -1,6 +1,6 @@
 # Maple Logistics - US Supply Chain Profitability Analysis | Excel
 
-![Dashboard](Maple_Logistics_Report_Dashboard.png)
+![Dashboard](Maple_Logistice_Report_Dashboard.png)
 
 ## 📦 Overview
 Analyzed 8,001 orders for a US logistics company (2012-2014) to identify profit leaks and growth opportunities.
